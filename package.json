@@ -1,0 +1,11 @@
+{
+  "name": "jusmod2023.github.io",
+  "version": "1.0.0",
+  "description": "^C",
+  "main": "175-07ca9fdde77ed2268823.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
