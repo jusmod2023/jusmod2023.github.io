@@ -39,6 +39,12 @@ body {
 .link-offset {
   scroll-margin-top: 62px;
 }
+.header-bold {
+  font-weight: bold;
+}
+.div-margin {
+  margin-top: 24px;
+}
 section h1 {
   font-size: 35px;
   font-weight: 400;
